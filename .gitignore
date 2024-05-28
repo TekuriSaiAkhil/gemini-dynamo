@@ -6,3 +6,4 @@ application_key.json
 ai-data.json
 service_acc/
 service_acc/*
+backend/gemini-dynamo/
