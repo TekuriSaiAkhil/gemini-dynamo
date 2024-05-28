@@ -4,3 +4,7 @@ langchain-google-vertexai
 youtube-transcript-api
 pytube
 tiktoken
+pypdf
+streamlit
+fastapi
+uvicorn
